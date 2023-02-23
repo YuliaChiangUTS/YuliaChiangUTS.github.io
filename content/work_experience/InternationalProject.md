@@ -3,7 +3,7 @@ role: Scholarship Holder
 company: International Industry AI Analytics Project
 month_started: Jun 2022
 year_started: Present
-current: False
+current: True
 ---
 
 Berlin, Germany & Sydney, Australia 
