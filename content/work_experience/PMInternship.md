@@ -7,6 +7,8 @@ year_started: 2021
 year_ended: 2021
 ---
 
+Singapore, Singapore
+
 Kaptaine is a company which seeks to revolutionise the after-sales service support for companies around the world with an end-to-end technology platform. Created applications to streamline user to cleaner service provision.
 
 * Led a focused team of 5 product-management interns to brainstorm features and develop workflows 
