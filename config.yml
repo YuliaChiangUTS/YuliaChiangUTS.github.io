@@ -1,6 +1,11 @@
-# See https://ezcv.readthedocs.io for documentation
 name: Yulia
 theme: dimension
 resume: false
-biography: Final year UTS student majoring in Data Analytics
+biography: Final year UTS student majoring in Data Analytics. I'm currently an IT operation intern at UTS and running an international industry AI Analytics Project. I have a few overseas studying and working experience including Japan, Ireland, Germany, Singapore and Australia. This gives me opportunities working with people from diverse backgrounds and broaden my horizon, I really enjopy it! 
+email: yulia.chiang0902@gmail.com
 avatar: images\IMG_20220721_101056_188.jpg
+company: University of Technology Sydney
+role: Bachelor of Science in IT with a major in Data Analytics
+social:
+  github: https://github.com/YuliaChiangUTS
+  linkedin: https://www.linkedin.com/in/yulia-chiang-948518204/?originalSubdomain=au
