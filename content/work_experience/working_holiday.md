@@ -1,10 +1,10 @@
 ---
-role: Backpacker|Dublin, Ireland
+role: Backpacker
 company: Working Holiday 
 month_started: Jul
 year_started: 2017
 month_ended: Apr
-year_ended: 2018
+year_ended: 2018 | Dublin, Ireland
 ---
 
 
