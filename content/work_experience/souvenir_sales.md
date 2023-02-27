@@ -6,7 +6,6 @@ year_started: 2020
 month_ended: Mar
 year_ended: 2020
 ---
-
 Sydney, Australia
 
 *  Helped guests with an understanding of First Nations culture, local species and sightseeing 
