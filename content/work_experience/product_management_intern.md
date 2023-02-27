@@ -1,12 +1,11 @@
 ---
-role: Product Management Intern
+role: Product Management Intern|Singapore, Singapore
 company: Kaptaine Computer Software 
 month_started: March
 year_started: 2021
 month_ended: Jun
 year_ended: 2021
 ---
-Singapore, Singapore
 
 *Kaptaine is a company which seeks to revolutionise the after-sales service support for companies around the world with an end-to-end technology platform. Created applications to streamline user to cleaner service provision.*
 
