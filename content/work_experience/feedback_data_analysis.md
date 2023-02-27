@@ -5,7 +5,6 @@ month_started: Jun
 year_started: 2022
 current: true
 ---
-
 Berlin, Germany & Sydney, Australia
 
 *Awarded a fully paid scholarship by German Academic Exchange Service and UTS, including flights, accommodation and living expenses along with a small group of other UTS STEM students.*
